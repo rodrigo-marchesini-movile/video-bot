@@ -4,7 +4,7 @@ Módulo para o concurso do ChatClub (setembro/2016)
 
 ## Proposta
 
-Distribuir conteúdo na forma de vídeos dentro do Messenger. Até então, outros módulos/bots possuem link para o vídeo no YouTube. O usuário é redirecionado para fora do Messenger e, uma vez no YouTube, está esposto a diversos outros links: recomendações, comentários, etc.
+Distribuir conteúdo na forma de vídeos dentro do Messenger. Até então, outros módulos/bots possuem link para o vídeo no YouTube. O usuário é redirecionado para fora do Messenger e, uma vez no YouTube, está exposto a diversos outros links: recomendações, comentários, etc.
 
 ## Solução
 
