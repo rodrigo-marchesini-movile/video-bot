@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "cardTitle": "Doutor Estranho",
+      "cardSubtitle": "fullscreen video",
+      "cardButton": "Trailer",
+      "vid": "YUfWrIcX4zw",
+      "size": "full",
+      "pageTitle": "Dr Estranho"
+    },
+    {
+      "cardTitle": "THOR 3: Ragnarok",
+      "cardSubtitle": "small video",
+      "cardButton": "Trailer",
+      "vid": "fVnBBjjjAnY",
+      "size": "compact",
+      "pageTitle": "THOR 3: Ragnarok - Vacation Teaser Trailer"
+    },
+    {
+      "cardTitle": "Justice League",
+      "cardSubtitle": "Larger video, but not fullscreen",
+      "cardButton": "Trailer",
+      "vid": "JsjtqpLbtvU",
+      "size": "tall",
+      "pageTitle": "Justice League - Official Comic-Con Trailer 2017"
+    }
+  ]
+}
